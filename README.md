@@ -17,3 +17,6 @@
 <a href="https://www.instagram.com/iamheysam?igsh=MWpieHluamRnYzBwNQ%3D%3D&utm_source=qr">
  <img src="instagram.svg">
 </a>
+<a href="https://t.me/IamHeysam">
+ <img src="telegram-svgrepo-com.svg">
+</a>
