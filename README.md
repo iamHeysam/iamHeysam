@@ -20,3 +20,6 @@
 <a href="https://t.me/IamHeysam">
  <img src="telegram-svgrepo-com.svg">
 </a>
+<a href="[https://t.me/IamHeysam](https://wa.me/message/V4T3TKGER6XOP1)">
+ <img src="telegram-svgrepo-com.svg">
+</a>
