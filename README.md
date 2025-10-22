@@ -7,6 +7,7 @@ Right now, I'm focused on **React**, learning how to create real-world projects 
 My goal is to become a **strong and professional Full-stack Developer** — and soon, the dev world will know my name. 🚀
 
 <hr />
+<br />
 
 ## 🏆 Stats & Achievements
 
