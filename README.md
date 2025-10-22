@@ -1,8 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there+I'm+Heysam+✋;I'm+a+Front-end+developer+🤜)](https://git.io/typing-svg)
 
-<hr />
+## 👨‍💻 About Me
 
-## Languages ​​I know
+Hey! I'm Heysam — an ambitious Front-end Developer who's all about growth and building real stuff.  
+Right now, I'm focused on *React*, learning how to create real-world projects that actually work.  
+My goal is to become a *strong and professional Full-stack Developer* — and soon, the dev world will know my name. 🚀
+
+<hr />
+<br />
+
+## 🏆 Stats & Achievements
+
+![Heysam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamHeysam&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamHeysam&layout=compact&theme=radical)
+
+## 🧠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,3 +32,7 @@
 <a href="https://t.me/IamHeysam">
  <img src="telegram-svgrepo-com.svg">
 </a>
+
+## 📈 GitHub Stats
+
+
