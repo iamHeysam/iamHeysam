@@ -15,6 +15,10 @@ My goal is to become a **strong and professional Full-stack Developer** — and 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-ff69b4?style=for-the-badge&logo=regex&logoColor=white)
 
   **don't know React fully yet, but You should be scared when I learn React because I'm going to be one of the best.**
 
@@ -35,6 +39,3 @@ My goal is to become a **strong and professional Full-stack Developer** — and 
 <a href="https://t.me/IamHeysam">
  <img src="telegram-svgrepo-com.svg">
 </a>
-
-
-
