@@ -19,10 +19,13 @@ My goal is to become a **strong and professional Full-stack Developer** — and 
   **don't know React fully yet, but You should be scared when I learn React because I'm going to be one of the best.**
 
 <hr />
+
 ## 🏆 Stats & Achievements
 
 ![Heysam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamHeysam&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamHeysam&layout=compact&theme=radical)
+
+<hr />
 
 ## Social media
 
