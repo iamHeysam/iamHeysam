@@ -3,8 +3,8 @@
 ## 👨‍💻 About Me
 
 Hey! I'm Heysam — an ambitious Front-end Developer who's all about growth and building real stuff.  
-Right now, I'm focused on *React*, learning how to create real-world projects that actually work.  
-My goal is to become a *strong and professional Full-stack Developer* — and soon, the dev world will know my name. 🚀
+Right now, I'm focused on **React**, learning how to create real-world projects that actually work.  
+My goal is to become a **strong and professional Full-stack Developer** — and soon, the dev world will know my name. 🚀
 
 <hr />
 <br />
@@ -33,6 +33,5 @@ My goal is to become a *strong and professional Full-stack Developer* — and so
  <img src="telegram-svgrepo-com.svg">
 </a>
 
-## 📈 GitHub Stats
 
 
